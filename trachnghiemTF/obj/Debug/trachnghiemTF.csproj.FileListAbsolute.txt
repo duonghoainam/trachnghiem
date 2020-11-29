@@ -1,0 +1,14 @@
+D:\test\trachnghiemTF\trachnghiemTF\bin\Debug\trachnghiemTF.exe.config
+D:\test\trachnghiemTF\trachnghiemTF\bin\Debug\trachnghiemTF.exe
+D:\test\trachnghiemTF\trachnghiemTF\bin\Debug\trachnghiemTF.pdb
+D:\test\trachnghiemTF\trachnghiemTF\bin\Debug\Newtonsoft.Json.dll
+D:\test\trachnghiemTF\trachnghiemTF\bin\Debug\Newtonsoft.Json.xml
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.csprojAssemblyReference.cache
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.Form1.resources
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.Properties.Resources.resources
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.csproj.GenerateResource.cache
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.csproj.CoreCompileInputs.cache
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.csproj.CopyComplete
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.exe
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.pdb
+D:\test\trachnghiemTF\trachnghiemTF\obj\Debug\trachnghiemTF.excel_form.resources
